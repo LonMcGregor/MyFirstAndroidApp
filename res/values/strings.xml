@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My First App</string>
+    <string name="fromUnit">Unit to convert from</string>
+    <string name="fromUnitLBL">From Unit:</string>
+    <string name="toUnit">Unit to convert to</string>
+    <string name="toUnitLBL">To Unit:</string>
+    <string name="valueUnit">Value to use</string>
+    <string name="valueUnitLBL">Value:</string>
+    <string name="button_send">Convert</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="allowedConvert">
+        <item >Available options:</item>
+        <item >GBP</item>
+        <item >USD</item>
+        <item >EUR</item>
+    </string-array>
+
+</resources>
